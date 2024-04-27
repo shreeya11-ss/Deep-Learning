@@ -1,0 +1,4 @@
+create an environment--->conda
+                         pipenv
+                         venv
+                         
